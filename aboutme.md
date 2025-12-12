@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My thoughts
-subtitle: Only my thoughts
+title: Random Thoughts
+subtitle: Thoughts, projects, and things I find interesting along the way
 ---
 
 Hey i'm Noel aka bonpiedlaroute

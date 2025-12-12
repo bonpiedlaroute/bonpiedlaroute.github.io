@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My thoughts
+title: Random Thoughts
 
 # Your name to show in the footer
 author: Bonpiedlaroute
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "bonpiedlaroute.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
