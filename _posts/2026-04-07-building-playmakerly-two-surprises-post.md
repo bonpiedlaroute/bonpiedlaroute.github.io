@@ -1,5 +1,5 @@
-# Building Playmakerly: Two Things That Actually Surprised Me
-
+---
+title: "Building Playmakerly: Two Things That Actually Surprised Me"
 ---
 
 For the past few months I've been building [Playmakerly](https://playmakerly.fr) — a Slack bot that uses AI to animate team predictions around football matches. Think office banter, but structured and powered by Claude Sonnet + LangGraph.
